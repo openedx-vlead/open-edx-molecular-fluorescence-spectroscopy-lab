@@ -1,4 +1,4 @@
-<course display_name="Molecular Fluorescence Spectroscopy Virtual Lab">
+<course advertised_start="Anytime" course_image="molcular-flourescence-spectroscopy-iiith.jpg" display_name="Molecular Fluorescence Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="_Introduction_to_the_fluorescence_spectroscopy_principle__"/>
   <chapter url_name="_Familiarization_with_the_fluorescence_instrumentation_"/>
@@ -10,5 +10,6 @@
   <chapter url_name="_Determination_of_fluorescence_quantum_yield_of_a_fluorophore_"/>
   <chapter url_name="_Fluorescence_Quenching_and_Stern-Volmer_plot-_Estimation_of_the_quenching_constant_from_Stern-Volmer_plot_"/>
   <chapter url_name="_Effects_of_excimer_and_exciplex_formations_on_fluorescence_emission_spectra_"/>
+  <chapter url_name="cda346f7b79445a8a8c060c5c93faf57"/>
   <wiki slug="IIITH.mfs.Anytime"/>
 </course>

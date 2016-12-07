@@ -1,11 +1,19 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
+        "course_image": "molcular-flourescence-spectroscopy-iiith.jpg", 
         "discussion_topics": {
             "General": {
                 "id": "i4x-IIITH-mfs-course-mfs"
             }
         }, 
-        "display_name": "Molecular Fluorescence Spectroscopy Virtual Lab", 
+        "display_name": "Molecular Fluorescence Spectroscopy", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -34,8 +42,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/mfs.xml", 
-                "course/mfs.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }
