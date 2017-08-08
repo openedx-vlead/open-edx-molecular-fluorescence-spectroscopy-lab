@@ -1,15 +1,15 @@
-<course advertised_start="Anytime" course_image="molcular-flourescence-spectroscopy-iiith.jpg" display_name="Molecular Fluorescence Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="Molecular Fluorescence Spectroscopy.jpg" display_name="Molecular Fluorescence Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="_Introduction_to_the_fluorescence_spectroscopy_principle__"/>
   <chapter url_name="_Familiarization_with_the_fluorescence_instrumentation_"/>
-  <chapter url_name="_Familiarization_with_excitation_and_emission_spectra_Mirror_Image_relation_and_Stokes_Shift_"/>
-  <chapter url_name="_Demonstration_of_solvent_effects_on_fluorescence_spectra_"/>
-  <chapter url_name="_Demonstration_of_pH_effects_on_fluorescence_spectra__"/>
-  <chapter url_name="_Effects_of_concentration_optical_density_of_a_fluorophore_on_emission_spectra_"/>
-  <chapter url_name="_Relationship_between_the_concentration_of_a_fluorophore_and_its_fluorescence_intensity-_Determination_of_unknown_concentration_of_an_analyte_in_solution__"/>
-  <chapter url_name="_Determination_of_fluorescence_quantum_yield_of_a_fluorophore_"/>
-  <chapter url_name="_Fluorescence_Quenching_and_Stern-Volmer_plot-_Estimation_of_the_quenching_constant_from_Stern-Volmer_plot_"/>
-  <chapter url_name="_Effects_of_excimer_and_exciplex_formations_on_fluorescence_emission_spectra_"/>
-  <chapter url_name="cda346f7b79445a8a8c060c5c93faf57"/>
-  <wiki slug="IIITH.mfs.Anytime"/>
+  <chapter url_name="_Familiarization_with_Excitation_and_Emission_Spectra_Mirror_Image_Relation_and_Stokes_Shift__"/>
+  <chapter url_name="_Demonstration_of_Solvent_Effects_on_Fluorescence_Spectra_of_a_Fluorophore_"/>
+  <chapter url_name="_Demonstration_of_pH_Effect_on_Fluorescence_Excitation_and_Emission_Spectra_of_a_Fluorophore"/>
+  <chapter url_name="Effects_of_Fluorophore_Concentration_on_Fluorescence_Spectra-Inner_Filter_Effects_"/>
+  <chapter url_name="_Relationship_between_the_Concentration_of_a_Fluorophore_and_its_Fluorescence_Intensity-_Determination_of_Unknown_Concentration_of_an_Analyte__"/>
+  <chapter url_name="_Determination_of_Fluorescence_Quantum_Yield_of_a_Fluorophore_"/>
+  <chapter url_name="_Fluorescence_Quenching_and_Stern-Volmer_Plot-Estimation_of_the_Quenching_Constant_from_Stern-Volmer_Plot_"/>
+  <chapter url_name="Effects_of_Excimer_and_Exciplex_Formations_on_Fluorescence_Emission_"/>
+  <chapter url_name="a1451cc2cd0344d58211c0f54dd30cbb"/>
+  <wiki slug="IIIT-Hyderabad.CCNSB01.Anytime"/>
 </course>
